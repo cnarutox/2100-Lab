@@ -1,8 +1,6 @@
 # 2100 实验室
 
-本项目是计蒜客 2018 年暑期实训项目之一。
-
-项目基于 [Django](https://www.djangoproject.com/) 和 [Vue.js](https://vuejs.org/) 框架制作。
+This project is the summer internship project of Jisuanke in 2018, based on ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) and ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D).
 
 ![img](https://github.com/cnarutox/2100-lab/blob/master/img/%E7%BB%88%E6%9E%81%E5%B1%95%E7%A4%BA%20%E4%B8%8B%E5%8D%88_%E9%A1%B5%E9%9D%A2_01.jpg)
 ![img](https://github.com/cnarutox/2100-lab/blob/master/img/%E7%BB%88%E6%9E%81%E5%B1%95%E7%A4%BA%20%E4%B8%8B%E5%8D%88_%E9%A1%B5%E9%9D%A2_02.jpg)
